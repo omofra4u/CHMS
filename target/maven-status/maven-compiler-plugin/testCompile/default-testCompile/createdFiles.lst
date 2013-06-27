@@ -1,0 +1,4 @@
+org/samuel/carehomemanagementsystem/domainModel/BaseTest.class
+org/samuel/carehomemanagementsystem/utility/DateUtilTest.class
+org/samuel/carehomemanagementsystem/domainModel/AddressTest.class
+org/samuel/carehomemanagementsystem/domainModel/ServiceUserTest.class
